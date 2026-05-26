@@ -1,2 +1,6 @@
 BCIT Capstone Project - Network Security - Group 7 - Ethan, Funmi, Jacob, Jasper, Liz, Tobi
-This is a Capstone Project administered by our professor Hamid
+This is a Capstone Project administered by our instructor Hamid T.
+
+In this section of our 2026 BCIT Capstone project, we are tasked with creating a "secure enterprise network" including but not limited to VPN connectivity, logging and attack detection. 
+
+Attacks will be executed using real-world attack simulations, and observed through splunk and FortiGate logging. 
